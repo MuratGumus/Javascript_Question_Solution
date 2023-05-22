@@ -10,7 +10,6 @@ console.log("Hello World!");
 //     console.log("number is zero");
 // }
 
-
 // const number = 4;
 
 // if (number%2==0) {
@@ -18,9 +17,6 @@ console.log("Hello World!");
 // }else{
 //     console.log("number is odd");
 // }
-
-
-
 
 // const number = +prompt("please enter your number")
 
@@ -94,11 +90,9 @@ console.log("Hello World!");
 //     console.log("wrong id.");
 // }
 
-
 // let calculate = +prompt("Press 1- to add \nPress 2- to subs \nPress 3- multi\nPress 4 to division")
 // let number1 = +prompt("Please enter a number1")
 // let number2 = +prompt("Please enter a number2")
-
 
 // if (calculate==1) {
 //     console.log(number1+number1);
