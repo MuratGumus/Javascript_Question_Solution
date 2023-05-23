@@ -1,5 +1,6 @@
 console.log("Hello World!");
 
+//? Sayının pozitif mi yoksa negatif mi olduğunu bulan program;
 // let number = 0;
 
 // if (number>0) {
@@ -18,6 +19,7 @@ console.log("Hello World!");
 //     console.log("number is odd");
 // }
 
+//? Girilen sayının haftanın hangi gününe denk geldiğini döndüren program;
 // const number = +prompt("please enter your number")
 
 // if (number==1) {
@@ -38,10 +40,10 @@ console.log("Hello World!");
 //     console.log("please enter your number correctly");
 // }
 
-// ? 18 yaşından büyük, araba kullanabilmek
+// ? Yaşına ve araba sürebilip süremediğine göre ehliyet alıp alamayacağını döndüren program
 
 // let age = +prompt("please enter your age")
-// let canDrive = +prompt("1-0");
+// let canDrive = +prompt("Can you drive? \nPress 1 to 'Yes' \nPress 0 to 'No");
 
 // if (age>=18 && canDrive==true) {
 //     console.log("get a license");
@@ -53,7 +55,7 @@ console.log("Hello World!");
 //     console.log(":) :) :) ");
 // }
 
-// TODO LOGİN CHECK
+//? Kullacının girdiği id ve parolaya göre login check yapan program
 
 // const id = 123123;
 // const password = 123123;
@@ -70,6 +72,8 @@ console.log("Hello World!");
 // }else{
 //     console.log("login failed");
 // }
+
+//? Kullacının girdiği id ve parolaya göre login check yapan program (İç içe koşullu)
 
 // let realId = 123123;
 // let realPassword = 123123;
@@ -89,6 +93,8 @@ console.log("Hello World!");
 // }else {
 //     console.log("wrong id.");
 // }
+
+//? Hesap makinesi uygulaması
 
 // let calculate = +prompt("Press 1- to add \nPress 2- to subs \nPress 3- multi\nPress 4 to division")
 // let number1 = +prompt("Please enter a number1")
