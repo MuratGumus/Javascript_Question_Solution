@@ -102,14 +102,30 @@
 
 //? Örnek 3 => pop push shift unshift ile ilk elemanı sona, son elemanı başa yazdırınız.
 
-const fruits = ["Apple", "Orange", "Banana"];
-const banana = fruits.pop()
-    console.log(fruits);
-const apple = fruits.shift();
-    console.log(fruits);
-fruits.unshift(banana);
-    console.log(fruits);
-fruits.push(apple)
-    console.log(fruits);
+// const fruits = ["Apple", "Orange", "Banana"];
+// const banana = fruits.pop()
+//     console.log(fruits);
+// const apple = fruits.shift();
+//     console.log(fruits);
+// fruits.unshift(banana);
+//     console.log(fruits);
+// fruits.push(apple)
+//     console.log(fruits);
+
+//? Örnek 4 => sayıları küçükten büyüğe doğru sıralayınız
+//     let numbers = [5, 3, 1, 4, 22];
+// numbers.sort((a, b) => a - b);
+// console.log(numbers); 
 
 
+
+//? Örnek 5 => iki farklı stringden slice methodu ile kelimeleri seçip ayrı bir string oluşturunuz 
+// let string1 = "Hello World!";
+// let string2 = "How are you friend";
+
+// let sliced1 = string1.slice(0, 6); 
+// let sliced2 = string2.slice(12);
+
+// let result = sliced1 + sliced2;
+
+// console.log(result);
